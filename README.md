@@ -51,11 +51,17 @@
 
 <h2 align="center">📌 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/Gteeri/LootEngine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gteeri&repo=LootEngine&theme=github_dark&border_color=1f6feb&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="400">
+<a href="https://github.com/Gteeri/LootEngine">
+<img src="https://img.shields.io/badge/LootEngine-0d1117?style=for-the-badge&logo=openjdk&logoColor=58a6ff" /><br>
+<sub><b>Custom Loot Drop System</b></sub><br>
+<sub>Paper 1.21+ • Rarities • Conditions • Multi-lang • GUI</sub>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
