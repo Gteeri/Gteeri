@@ -37,9 +37,15 @@
   <a href="https://github.com/Gteeri/LootEngine">
     <img src="https://img.shields.io/badge/LootEngine-Custom_Loot_System-1f6feb?style=for-the-badge"/>
   </a>
+  <a href="https://github.com/Gteeri/AutoRestart">
+    <img src="https://img.shields.io/badge/AutoRestart-Scheduled_Restart-1f6feb?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Gteeri/DeathMessages">
+    <img src="https://img.shields.io/badge/DeathMessages-Custom_Deaths-1f6feb?style=for-the-badge"/>
+  </a>
 </p>
 <p align="center">
-  <sub>Paper 1.21+ • Rarities • Conditions • Multi-language • GUI Preview • Stats</sub>
+  <sub>All plugins: Paper 1.21+ • Multi-language • Configurable • Open Source</sub>
 </p>
 
 ---
