@@ -35,13 +35,16 @@
 
 <p align="center">
   <a href="https://github.com/Gteeri/LootEngine">
-    <img src="https://img.shields.io/badge/LootEngine-Custom_Loot_System-1f6feb?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LootEngine-Custom_Loot-1f6feb?style=for-the-badge"/>
   </a>
   <a href="https://github.com/Gteeri/AutoRestart">
     <img src="https://img.shields.io/badge/AutoRestart-Scheduled_Restart-1f6feb?style=for-the-badge"/>
   </a>
   <a href="https://github.com/Gteeri/DeathMessages">
     <img src="https://img.shields.io/badge/DeathMessages-Custom_Deaths-1f6feb?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/Gteeri/WarpSystem">
+    <img src="https://img.shields.io/badge/WarpSystem-Teleport_GUI-1f6feb?style=for-the-badge"/>
   </a>
 </p>
 <p align="center">
