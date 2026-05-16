@@ -49,6 +49,9 @@
   <a href="https://github.com/Gteeri/DailyRewards">
     <img src="https://img.shields.io/badge/DailyRewards-Streak_Bonuses-1f6feb?style=for-the-badge"/>
   </a>
+  <a href="https://github.com/Gteeri/AntiAFK">
+    <img src="https://img.shields.io/badge/AntiAFK-Activity_Detection-1f6feb?style=for-the-badge"/>
+  </a>
 </p>
 <p align="center">
   <sub>All plugins: Paper 1.21+ • Multi-language • Configurable • Open Source</sub>
